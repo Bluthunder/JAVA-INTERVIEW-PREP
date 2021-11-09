@@ -29,7 +29,8 @@ public class String_Reverse {
 		
 		
 		System.out.println(output);
-*/
+		
+*/		scan.close();
 		
 	}
 

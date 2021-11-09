@@ -12,6 +12,8 @@ public class WordReverse {
 		String paragraph = scan.nextLine();
 		
 		System.out.println(ReverseWord(paragraph));
+		
+		scan.close();
 
 	}
 

@@ -12,6 +12,8 @@ public class CheckPrime {
 		int num  = scan.nextInt();
 		
 		System.out.println(isPrime(num));
+		
+		scan.close();
 
 	}
 
