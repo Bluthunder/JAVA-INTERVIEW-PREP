@@ -15,6 +15,8 @@ public class CountFreqOfCharsInString {
 		//accumalate freq
 		for(int i = 0; i < n; i++) {
 						
+		//	System.out.println(str.charAt(i) - 'a');
+			
 			freq[str.charAt(i) - 'a']++;
 			
 		}

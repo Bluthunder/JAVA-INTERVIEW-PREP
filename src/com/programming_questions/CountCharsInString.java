@@ -9,7 +9,7 @@ public class CountCharsInString {
 		// TODO Auto-generated method stub
 
 		String s = "geeksforgeeks";
-		prCharWithFreq(s);
+		prCharWithFreq(s); 
 		
 	}
 
